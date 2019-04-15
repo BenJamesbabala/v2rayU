@@ -1,0 +1,16 @@
+{
+  "network": "ws",
+  "security": "none",
+  "tlsSettings": {},
+  "tcpSettings": {},
+  "kcpSettings": {},
+  "httpSettings": {},
+  "wsSettings": {
+    "connectionReuse": true,
+    "path": "",
+    "headers": {
+      "Host": ""
+    }
+  },
+  "quicSettings": {}
+}
